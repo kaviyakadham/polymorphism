@@ -1,5 +1,13 @@
-//polymorphism
+//polymorphism 
 //one thing in different form that is one method but different behaviour
+//polymorphism are of two types
+//method overloading or complie time or early binding
+//method overidding or run time or late binding
+//In method overriding the code size can be reduced
+//achive polymorphism by creating parent type reference for child type object (i.e.upcasting or loose coupling)
+//
+
+//
 class Animal
 {
     public void eat()
